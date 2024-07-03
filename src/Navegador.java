@@ -1,4 +1,4 @@
-public class Navegador {
+public class Navegador implements IPhone {
 
     public void exibirPagina(String url) {
         System.out.println("Exibindo a página web. ");
